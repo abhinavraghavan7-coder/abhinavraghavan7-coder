@@ -1,115 +1,91 @@
-<!-- 🔥 CYBERPUNK BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00f7ff&height=220&section=header&text=ABHINAV%20K&fontSize=45&fontColor=00f7ff&animation=fadeIn&fontAlignY=35" />
-</p>
+<!-- 🔥 ANIMATED HEADER -->
+<h1 align="center">Hi 👋, I'm Abhinav</h1>
 
-<!-- ⚡ TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+Progress;DSA+%2B+Problem+Solver;Building+Real+World+Projects;Future+Tech+Enthusiast+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;DSA+Learner;Web+Developer;Building+Cool+Projects+🚀" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-<p align="center">
-💻 Passionate about coding & building  
-🎓 B.Tech Student  
-⚡ Learning DSA + Full Stack Development  
-🚀 Goal: Become an industry-level developer  
-</p>
+## 🚀 About Me
+- 🎓 B.Tech Student  
+- 💻 Passionate Developer  
+- 📚 Learning DSA + Development  
+- ⚡ Love building real-world projects  
 
 ---
 
-## 🌐 Connect & Portfolio
-
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/abhinavraghavan7-coder">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00f7ff"/>
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
   </a>
-  
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-00f7ff?style=for-the-badge&logo=vercel&logoColor=000"/>
-  </a>
-
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
 ---
 
-## 💻 Tech Arsenal
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,express,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,express,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavraghavan7-coder&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavraghavan7-coder&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavraghavan7-coder&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🐉 Dragon Power Mode
+
+<p align="center">
+
+<!-- 🔥 Dragon GIF -->
+<img src="https://i.gifer.com/3GqZ.gif" width="200"/>
+
+<br><br>
+
+<!-- ⚡ Moving Contribution Snake (Dragon Trail) -->
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
+
+## 🔥 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/your-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinavraghavan7-coder&repo=your-repo&theme=radical&hide_border=true"/>
-</a>
-
-<a href="https://github.com/your-repo2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinavraghavan7-coder&repo=your-repo2&theme=radical&hide_border=true"/>
-</a>
-
-</p>
+- 🔹 Coming Soon...
+- 🔹 Add your best projects here  
 
 ---
 
-## 📊 GitHub Intelligence
-
+## 👀 Profile Views
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavraghavan7-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavraghavan7-coder&theme=radical&hide_border=true&background=0D1117" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavraghavan7-coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-</p>
-
----
-
-## ⚡ Saiyan Power Mode
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohc0Qbo9hygBRU304/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="180"/>
-</p>
-
----
-
-## ⚡ Live Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavraghavan7-coder&theme=react-dark&bg_color=0D1117&hide_border=true&line=00f7ff&point=ffffff"/>
-</p>
-
----
-
-## 🔥 Dev Philosophy
-
-<p align="center">
-💀 "Discipline > Motivation"  
-⚡ "Code until you can't be ignored"  
-</p>
-
----
-
-## 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinavraghavan7-coder&label=PROFILE+VIEWS&color=00f7ff&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=abhinavraghavan7-coder&label=Profile%20views&color=blue&style=flat" />
 </p>
 
 ---
 
 <p align="center">
-🚀 **BUILD. BREAK. REPEAT.**
+
+⭐ **"Code. Build. Repeat."**
+
 </p>
