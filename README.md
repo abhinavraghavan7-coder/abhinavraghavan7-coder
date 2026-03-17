@@ -1,6 +1,6 @@
-<!-- 🔥 ULTRA INSTINCT BANNER -->
+<!-- 🔥 CYBERPUNK BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0f2027,100:00f7ff&height=260&section=header&text=ABHINAV%20K&fontSize=55&fontColor=00f7ff&animation=fadeIn&desc=Ultra%20Instinct%20Developer&descAlignY=70&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00f7ff&height=220&section=header&text=ABHINAV%20K&fontSize=45&fontColor=00f7ff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <!-- ⚡ TYPING EFFECT -->
