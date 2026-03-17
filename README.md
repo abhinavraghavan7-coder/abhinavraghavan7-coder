@@ -63,16 +63,16 @@
 
 <p align="center">
 
-<!-- 🔥 GOKU UI MODE -->
+<!-- 🔥 GOKU -->
 <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="280"/>
 
-<!-- ⚡ VEGETA POWER -->
+<!-- ⚡ VEGETA -->
 <img src="https://media.giphy.com/media/ul1omlrGG6kpO/giphy.gif" width="280"/>
 
 <br><br>
 
-<!-- ⚡ MOVING SNAKE (ENERGY TRAIL) -->
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+<!-- 🐉 MOVING DRAGON TRAIL (FIXED) -->
+<img src="https://github.com/abhinavraghavan7-coder/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 
 <br><br>
 
