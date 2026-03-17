@@ -1,6 +1,6 @@
-<!-- 🔥 CUSTOM CYBER BANNER -->
+<!-- 🔥 ULTRA INSTINCT BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00f7ff&height=220&section=header&text=ABHINAV%20K&fontSize=45&fontColor=00f7ff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0f2027,100:00f7ff&height=260&section=header&text=ABHINAV%20K&fontSize=55&fontColor=00f7ff&animation=fadeIn&desc=Ultra%20Instinct%20Developer&descAlignY=70&descSize=22" />
 </p>
 
 <!-- ⚡ TYPING EFFECT -->
@@ -13,12 +13,10 @@
 ## 🧠 About Me
 
 <p align="center">
-  
 💻 Passionate about coding & building  
 🎓 B.Tech Student  
-⚡ Currently mastering DSA + Development  
-🚀 Goal: Become industry-level developer  
-
+⚡ Learning DSA + Full Stack Development  
+🚀 Goal: Become an industry-level developer  
 </p>
 
 ---
@@ -49,7 +47,7 @@
 
 ---
 
-## 🚀 Featured Projects (REAL IMPACT)
+## 🚀 Featured Projects
 
 <p align="center">
 
@@ -78,15 +76,16 @@
 
 ---
 
-## 🐉 Cyber Dragon Core
+## ⚡ Saiyan Power Mode
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/3ohc0Qbo9hygBRU304/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="180"/>
 </p>
 
 ---
 
-## ⚡ Live Coding Activity (Advanced)
+## ⚡ Live Coding Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavraghavan7-coder&theme=react-dark&bg_color=0D1117&hide_border=true&line=00f7ff&point=ffffff"/>
@@ -97,10 +96,8 @@
 ## 🔥 Dev Philosophy
 
 <p align="center">
-
-💀 *"Discipline > Motivation"*  
-⚡ *"Code until you can't be ignored"*  
-
+💀 "Discipline > Motivation"  
+⚡ "Code until you can't be ignored"  
 </p>
 
 ---
@@ -114,7 +111,5 @@
 ---
 
 <p align="center">
-
 🚀 **BUILD. BREAK. REPEAT.**
-
 </p>
