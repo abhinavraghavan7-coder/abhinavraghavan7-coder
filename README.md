@@ -1,21 +1,75 @@
-# 💫 About Me:
-Hi, I'm Abhinav 👋<br><br>🎓 B.Tech Student<br>💻 Aspiring Software Developer<br>📚 Currently learning Data Structures & Algorithms<br>🚀 Interested in software development, problem solving, and building real-world projects<br><br>---<br><br>🚀 Tech Stack<br><br>Languages<br>"C++" (https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)<br>"Python" (https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black)<br><br>Web Development<br>"HTML" (https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)<br>"CSS" (https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)<br>"JavaScript" (https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)<br><br>Tools<br>"Git" (https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)<br>"GitHub" (https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)<br><br>---<br><br>📊 GitHub Stats<br><br>"Abhinav's GitHub stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)<br><br>"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)<br><br>---<br><br>⭐ Always learning and building new things.
+<!-- 🔥 ANIMATED HEADER -->
+<h1 align="center">Hi 👋, I'm Abhinav</h1>
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhinavraghavan7-coder&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abhinavraghavan7-coder&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavraghavan7-coder&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhinavraghavan7-coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;DSA+Learner;Web+Developer;Building+Cool+Projects+🚀" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhinavraghavan7-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+- 🎓 B.Tech Student  
+- 💻 Passionate Developer  
+- 📚 Learning DSA + Development  
+- ⚡ Love building real-world projects  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/abhinavraghavan7-coder"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,express,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavraghavan7-coder&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavraghavan7-coder&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavraghavan7-coder&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🔥 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+- 🔹 Coming Soon...
+- 🔹 Add your best projects here
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhinavraghavan7-coder&label=Profile%20views&color=blue&style=flat" />
+</p>
+
+---
+
+⭐ **"Code. Build. Repeat."**
